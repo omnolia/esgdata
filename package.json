@@ -37,7 +37,9 @@
         "node-red-contrib-ui-value-trail" : "0.2.3",
         
         "node-red-contrib-web-worldmap" : "2.22.2",
-        "node-red-contrib-decentralized-identity" : "1.0.2"
+        "node-red-contrib-decentralized-identity" : "1.0.2",
+        "node-red-contrib-ui-areyousure" : "0.1.0",
+        "node-red-contrib-sepa" : "0.3.10"
         
         
         
